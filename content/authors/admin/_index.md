@@ -6,7 +6,7 @@ title: You Peng
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoc Reseacher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
